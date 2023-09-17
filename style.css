@@ -1,0 +1,78 @@
+body{
+    background-color:#f5e1da;
+    color:black;
+    margin:0px;
+    margin-top:0px;
+    margin-right:0px;
+    margin-bottom:0px;
+    margin-left:0px;
+}
+
+h1{
+    font-family: 'Caveat', cursive;
+    font-family: 'Kaushan Script', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Roboto Mono', monospace;
+    text-transform:uppercase;
+}
+.stack{
+    font-family: 'Caveat', cursive;
+    font-family: 'Kaushan Script', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#first{
+    background-color:#ebc3b6;
+    width: 1340px;
+    height: 100px;
+    text-align:center;
+    position:relative;
+    margin:0px;
+    border:0px;
+    padding:0px;
+}
+
+#second{
+    background-color:#f5e1da;
+    position:absolute;
+}
+
+    #listofprojects{
+                    border:3px solid black;
+                    position:relative;
+                    left: 510px;
+                    top: 10px;
+
+                        
+    }
+
+#third{
+    background-color:#ebc3b6;
+    position:relative;
+    width: 1340px;
+    height: 100px;
+    top: 420px;
+
+}
+
+.contact{
+    width: 90px;
+    border: 2px solid #d7886d;
+    position:absolute;
+    margin:0px;
+    left:10px;
+    text-align:center;
+}
+
+.about{
+    position:absolute;
+    left: 200px;
+}
+
+ol{
+    font-family: 'Caveat', cursive;
+    font-family: 'Kaushan Script', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Roboto Mono', monospace;
+}
