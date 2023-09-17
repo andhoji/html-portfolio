@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+h1{
+    text-transform:uppercase;
+    color:goldenrod;
+}
+p[class]{
+    color:beige;
+}
+
+*{
+    font-family: 'Caveat', cursive;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Libre Baskerville', serif;
+}
+img{
+    border:5px solid white;
+    margin: 0px;
+}
+#first{
+    text-align:center;
+    margin-left:200px;
+    margin-top: 50px;
+    margin-right:200px;
+   /* border:10px solid white; */
+}

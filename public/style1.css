@@ -1,0 +1,31 @@
+/*used class selector to center the text */
+.center{
+text-align:center; color:white;
+}
+/*using main selector for red */
+#red-text{
+    color:red;
+}
+
+.Blue-text
+{
+    color:blue;
+}
+
+.Orange-text
+{color:orange;}
+
+.Green-text
+{
+    color:green;
+}
+.Yellow-text
+{
+    color:yellow;
+}
+img[src]{
+    width:200px; height:200px;
+}
+*{
+    background-color: black;
+}
